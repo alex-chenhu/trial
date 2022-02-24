@@ -1,3 +1,5 @@
 Hello, I would like to push this into git.
 
 Addition
+
+Addition to see conflicts
